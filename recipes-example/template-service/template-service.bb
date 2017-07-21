@@ -13,7 +13,7 @@ DEPENDS = "template-library"
 PV = "1.0+git${SRCREV}"
 PR = "r0"
 
-SRCREV = "5bce3d20f996dac7e3882f48f5057abb7e1d05f5"
+SRCREV = "ad9daca9368786bda1e2665914594b8b14323057"
 SRC_URI = "git://github.com/Pelagicore/template-service.git;protocol=https;branch=master"
 
 S = "${WORKDIR}/git/"
